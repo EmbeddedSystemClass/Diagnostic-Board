@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Diag-Board.SchDoc
+Record=SheetSymbol|SourceDocument=Diag-Board.SchDoc|Designator=Connectors|SchDesignator=Connectors|FileName=Connectors.SchDoc|SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Diag-Board.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Diag-Board.SchDoc|Designator=MUX1|SchDesignator=MUX1|FileName=MUX_CHANNEL.SchDoc|SymbolType=Normal|RawFileName=MUX_CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Diag-Board.SchDoc|Designator=MUX2|SchDesignator=MUX2|FileName=MUX_CHANNEL.SchDoc|SymbolType=Normal|RawFileName=MUX_CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Diag-Board.SchDoc|Designator=MUX3|SchDesignator=MUX3|FileName=MUX_CHANNEL.SchDoc|SymbolType=Normal|RawFileName=MUX_CHANNEL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
